@@ -1,2 +1,6 @@
 Hello from my EC2 instance
+<<<<<<< HEAD
 Collaboration from partner
+=======
+collab
+>>>>>>> 63bd02b125d2414436cb073ffec9bc429dc5910b
